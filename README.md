@@ -1,8 +1,5 @@
-Nome: Eduado G De Lazari
-Idade: 16 anos
-Florianópolis - SC
 
-Cursando Ciências da computação na Universidade Federal de Santa Catarina (UFSC)
+# Cursando Ciências da computação na Universidade Federal de Santa Catarina (UFSC)
 
 <div align="center">
   <a href="https://github.com/edugdl">
