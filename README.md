@@ -1,5 +1,5 @@
 
-# Cursando Ciências da computação na Universidade Federal de Santa Catarina (UFSC)
+# Cursando Ciência da computação na Universidade Federal de Santa Catarina (UFSC)
 
 <div align="center">
   <a href="https://github.com/edugdl">
