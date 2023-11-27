@@ -1,4 +1,3 @@
-
 <h1 align="center">Cursando Ciência da computação na UFSC <br/>(Universidade Federal de Santa Catarina)</h1>
 
 <div align="center">
